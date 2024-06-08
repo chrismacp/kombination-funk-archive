@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/kombinationfunk.net/static/css/main.102a67e6.css",
+    "main.js": "/kombinationfunk.net/static/js/main.fbc41232.js",
+    "static/js/453.59500d2e.chunk.js": "/kombinationfunk.net/static/js/453.59500d2e.chunk.js",
+    "static/media/armor-piercing.regular.ttf": "/kombinationfunk.net/static/media/armor-piercing.regular.861f80f8a1fe9bf3f50e.ttf",
+    "static/media/kf-logo.svg": "/kombinationfunk.net/static/media/kf-logo.69501a401e4ca14b06364acf52555e59.svg",
+    "index.html": "/kombinationfunk.net/index.html",
+    "main.102a67e6.css.map": "/kombinationfunk.net/static/css/main.102a67e6.css.map",
+    "main.fbc41232.js.map": "/kombinationfunk.net/static/js/main.fbc41232.js.map",
+    "453.59500d2e.chunk.js.map": "/kombinationfunk.net/static/js/453.59500d2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.102a67e6.css",
+    "static/js/main.fbc41232.js"
+  ]
+}
