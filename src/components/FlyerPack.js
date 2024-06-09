@@ -4,7 +4,7 @@ function FlyerPack({ month }) {
 
     const monthParts = month.split("-");
     const year =  monthParts[0]
-    const monthName = new Date(2002, monthParts[1] , 1).toLocaleString("en-US", { month: "long" })
+    const monthName = new Date(2002, monthParts[1] -1 , 1).toLocaleString("en-US", { month: "long" })
 
     return (
       <div className="flyer-pack">

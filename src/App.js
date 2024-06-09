@@ -34,6 +34,8 @@ function App() {
     firstKfMonth = 1;
   }
 
+  console.log(months);
+
   return (
     <div className="app">
       <Image src={TextLogo} className="app-logo" alt="Funkin dark beats & basslines" fluid />
