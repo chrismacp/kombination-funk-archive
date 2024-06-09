@@ -1,4 +1,6 @@
-# Kombination funk Archive
+# Kombination Funk Archive
+
+<img src="src/assets/img/kf-box-logo.svg" width="70"/>
 
 This repository contains a basic React app that displays all of the Kombination Funk flyers we have collected over the years. 
 
@@ -10,7 +12,7 @@ If you would like to contribute some flyer donations, follow these steps:
 
 3. If you have Github fu, then try creating a PR. 
 
-4. If the above sounds Greek to you, then send me a message [on Facebook](https://www.facebook.com/chrismacp/) and we can sort it out. 
+4. If number 3 above sounds like Greek to you, then send me a message [on Facebook](https://www.facebook.com/chrismacp/) and we can sort it out. 
 
 5. Basque in the fully updated archive.
 
