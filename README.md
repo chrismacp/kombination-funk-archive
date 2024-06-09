@@ -1,3 +1,37 @@
+# Kombination funk Archive
+
+This repository contains a basic React app that displays all of the Kombination Funk flyers we have collected over the years. 
+
+If you would like to contribute some flyer donations, follow these steps:
+
+1. First of all, thanks for keeping the memories alive! We hope you had a good rave up back in the Blueprint!!
+
+2. Take a picture of the flyer front and back, with just a little border around it, if possible. 
+
+3. If you have Github fu, then try creating a PR. 
+
+4. If the above sounds Greek to you, then send me a message [on Facebook](https://www.facebook.com/chrismacp/) and we can sort it out. 
+
+5. Basque in the fully updated archive.
+
+Thanks for your help!
+
+
+
+
+========================================================
+
+
+
+
+========================================================
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

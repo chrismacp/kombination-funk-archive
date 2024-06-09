@@ -26,8 +26,13 @@
   src: url("./assets/fonts/armor-piercing.regular.ttf") format("truetype");
 }
 
+.heading-text {
+  width:75%;
+  text-align: center;
+}
+
 .body-text {
-  max-width: 450px;
+  /* max-width: 450px; */
   color: #23305b;
   font-family: "Exo 2";
   font-size:0.8em;

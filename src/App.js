@@ -34,26 +34,42 @@ function App() {
     firstKfMonth = 1;
   }
 
-  console.log(months);
-
   return (
     <div className="app">
       <Image src={TextLogo} className="app-logo" alt="Funkin dark beats & basslines" fluid />
       
-      <div className="body-text"><strong>What a blast that was!</strong></div>
-      <div className="body-text">After many years thinking about putting up an archive,
-                                 I've finally got something together to celebrate the awesome times we had.</div>
-      <div className="body-text">You can join in by <a href="">submitting flyers you have</a>.</div>
-      <div className="body-text">-</div>
-      <div className="body-text">This page is dedicated to four of our fellow KFunkers who recently passed away in 2023,</div>
-      <div className="body-text">all of whom had an impact on the night over the years, some from the very first event! </div>
-      <div className="body-text">-</div>
-      <div className="body-text">R.I.P. : </div>
-      <div className="body-text"><strong>Mark 'Mr Seavers'</strong>,</div>
-      <div className="body-text"><strong>Woody 'DJ Kuss'</strong>,</div>
-      <div className="body-text"><strong>Nicky - Krunch Soundsystem</strong>,</div>
-      <div className="body-text"><strong>James 'DJ Case'</strong></div>
+      <Container fluid className="heading-text">
+        <Row>
+          <Col ></Col>
+          <Col xs={12} md={10} lg={8}>
+          <p className="body-text"><strong>What a blast that was!</strong></p>
+          <p className="body-text">
+            After many years pondering about putting up an archive, I've finally pulled something together to celebrate the awesome 
+            times we had, of which there were over 6 years worth :)
+          </p>
+          <p className="body-text">
+            You can join in and help by <a href="https://github.com/chrismacp/kombination-funk-archive">submitting flyers you have</a>.
+          </p>
+          <div className="body-text">-</div>
+          <p className="body-text">
+            A massive shout out to our flyer designers over the years, <strong>Ben Fawce</strong>, <strong>Alex Judd</strong> (Soul Intent), <strong>Sebastian Pape</strong> (Planar) and also the Derby Crew.
+            Looking back at these, you killed it!
+          </p>
+          <div className="body-text">-</div>
+          <p className="body-text">
+            This page is dedicated to four of our fellow KFunkers who recently passed away in 2023, all of whom had an impact on the night over the years, some from the very first event! </p>
+          <div className="body-text">-</div>
+          <div className="body-text">R.I.P. : </div>
+          <div className="body-text"><strong>Mark 'Mr Seavers'</strong>,</div>
+          <div className="body-text"><strong>Woody 'DJ Kuss'</strong>,</div>
+          <div className="body-text"><strong>Nicky - Krunch Soundsystem</strong>,</div>
+          <div className="body-text"><strong>James 'DJ Case'</strong></div>
 
+          </Col>
+          <Col></Col>
+        </Row>
+        
+      </Container>
 
       <Container>
       {
@@ -92,7 +108,7 @@ function App() {
         </Row> */}
       </Container>
 
-      <div className="body-text">&copy; {new Date().getFullYear()} Kombination Funk</div>
+      <p className="body-text">&copy; {new Date().getFullYear()} Kombination Funk - created by chrismacp</p>
     </div>
   );
 }
