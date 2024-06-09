@@ -28,9 +28,11 @@ Thanks for your help!
 
 ========================================================
 
+
 ## Development 
 
 This project uses [create-react-app](https://create-react-app.dev/) and [react-boostrap](https://react-bootstrap.netlify.app/docs) for the app and [gh-pages](https://www.npmjs.com/package/gh-pages) to deploy to Gihub pages.
+
 
 ### Adding new flyers
 
@@ -39,6 +41,7 @@ This project uses [create-react-app](https://create-react-app.dev/) and [react-b
 3. Run `npm run build`
 4. Run `npm run deploy` (This actually deploys the site without committing to main, this isn't critical so no worries)
 5. Then commit and push your code.
+
 
 ### Run locally
 
