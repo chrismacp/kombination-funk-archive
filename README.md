@@ -36,7 +36,7 @@ This project uses [create-react-app](https://create-react-app.dev/) and [react-b
 
 ### Adding new flyers
 
-1. Just name them as follows: <year>-<month>-(front|back).jpg, for example '2002-03-front.jpg'.
+1. Just name them as follows: &lt;year&gt;-&lt;month>&gt;(front|back).jpg, for example '2002-03-front.jpg'.
 2. Put the flyer files in the public/images/flyers/ directory
 3. Run `npm run build`
 4. Run `npm run deploy` (This actually deploys the site without committing to main, this isn't critical so no worries)
