@@ -58,7 +58,6 @@ function App() {
           <div className="body-text">-</div>
           <p className="body-text">
             This page is dedicated to four of our fellow KFunkers who recently passed away in 2023, all of whom had an impact on the night over the years, some from the very first event! </p>
-          <div className="body-text">-</div>
           <div className="body-text">R.I.P. : </div>
           <div className="body-text"><strong>Mark 'Mr Seavers'</strong>,</div>
           <div className="body-text"><strong>Woody 'DJ Kuss'</strong>,</div>
