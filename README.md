@@ -20,21 +20,16 @@ Thanks for your help!
 
 
 
-
-========================================================
-
+----
 
 
 
-========================================================
-
-
-## Development 
+## Development 
 
 This project uses [create-react-app](https://create-react-app.dev/) and [react-boostrap](https://react-bootstrap.netlify.app/docs) for the app and [gh-pages](https://www.npmjs.com/package/gh-pages) to deploy to Gihub pages.
 
 
-### Adding new flyers
+### Adding new flyers
 
 1. Just name them as follows: &lt;year&gt;-&lt;month&gt;-(front|back).jpg, for example '2002-03-front.jpg'.
 2. Put the flyer files in the public/images/flyers/ directory
@@ -43,7 +38,7 @@ This project uses [create-react-app](https://create-react-app.dev/) and [react-b
 5. Then commit and push your code.
 
 
-### Run locally
+### Run locally
 
 1. Run `npm start`
 
