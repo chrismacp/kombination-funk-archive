@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.7eb5d2de.css",
-    "main.js": "/static/js/main.47d95136.js",
+    "main.js": "/static/js/main.2639fd9b.js",
     "static/js/453.59500d2e.chunk.js": "/static/js/453.59500d2e.chunk.js",
     "static/media/armor-piercing.regular.ttf": "/static/media/armor-piercing.regular.861f80f8a1fe9bf3f50e.ttf",
     "static/media/kf-logo.svg": "/static/media/kf-logo.69501a401e4ca14b06364acf52555e59.svg",
     "index.html": "/index.html",
     "main.7eb5d2de.css.map": "/static/css/main.7eb5d2de.css.map",
-    "main.47d95136.js.map": "/static/js/main.47d95136.js.map",
+    "main.2639fd9b.js.map": "/static/js/main.2639fd9b.js.map",
     "453.59500d2e.chunk.js.map": "/static/js/453.59500d2e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7eb5d2de.css",
-    "static/js/main.47d95136.js"
+    "static/js/main.2639fd9b.js"
   ]
 }
